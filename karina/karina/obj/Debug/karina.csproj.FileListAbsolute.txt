@@ -1,0 +1,11 @@
+C:\Users\elnar\source\repos\karina\karina\bin\Debug\karina.exe.config
+C:\Users\elnar\source\repos\karina\karina\bin\Debug\karina.exe
+C:\Users\elnar\source\repos\karina\karina\bin\Debug\karina.pdb
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.csproj.AssemblyReference.cache
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.csproj.SuggestedBindingRedirects.cache
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.Form1.resources
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.Properties.Resources.resources
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.csproj.GenerateResource.cache
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.csproj.CoreCompileInputs.cache
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.exe
+C:\Users\elnar\source\repos\karina\karina\obj\Debug\karina.pdb
